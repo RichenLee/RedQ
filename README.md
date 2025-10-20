@@ -1,2 +1,2 @@
 # RedQ
-RedQ：A a YOLOv5-based software for fluorescence signals quantification.
+RedQ：a YOLOv5-based software for tube fluorescence signals quantification.
